@@ -54,9 +54,9 @@ function processPage(page, level, stack, context) {
 function build(pages, dv, max_level = 9, show_completed = false) {
 	// Build task tree from dataview page list
 	const context = {
-		max_level: max_level,
-		show_completed: show_completed,
-		dv: dv
+		max_level: max_level, // max level of sub note tasks
+		show_completed: show_completed, // show completed tasks
+		dv: dv // link to dataview class
 	}
 	let allTasks = [];
 	for (let page of pages) {
