@@ -37,13 +37,15 @@ console.log(task_list);
 dv.taskList(task_list);
 ```
 
+
 # Заметки
 ```dataviewjs
 let pages = dv.pages("#story").filter(page => page.file.tasks.some(task => !task.completed));
-//dv.el("p",pages.file.tasks.values[1].children[0])
+//console.log("Task test note")
+//console.log(pages.file[1].tasks.values[1].children[0].symbol)
 ```
 
 ```dataviewjs
 let pages = dv.pages("#story").filter(page => page.file.tasks.some(task => !task.completed));
-dv.taskList(pages.file.lists);
+dv.taskList(pages.file.tasks);
 ```

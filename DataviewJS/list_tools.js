@@ -1,4 +1,5 @@
 function cloneElement(element) {
+    let status_of_element = element.task ? element.status : "-"
 	return {
 	    //annotated: task.annotated,
 	    //section: task.section
@@ -6,8 +7,8 @@ function cloneElement(element) {
 	    symbol: element.symbol,
 	    tags: element.tags,
         text: element.text,       
-        status: element.status,   	// Element status, filling [ ] for task element
-        task: element.task,       	// Flag that list element is task
+        status: status_of_element,   	// Element status, filling [ ] for task element
+        task: true,       	// Flag that list element is task
         real: false,           		// Flag that element is fake, but it doesn't effect to anything
         link: element.link,       	// Link to source where element was found
         children: [],          		// List of children element. Make it empty because we will it fill manually
