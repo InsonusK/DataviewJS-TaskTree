@@ -9,31 +9,18 @@
         "dimension": 34.71720818291215,
         "children": [
           {
-            "id": "83ff155feb0b7fbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c6864d15eee041f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "base task/Task Test.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "39a885e53fc8724c",
@@ -47,8 +34,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "83ff155feb0b7fbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,11 +200,12 @@
   },
   "active": "c6864d15eee041f3",
   "lastOpenFiles": [
+    "base task/Task 1.md",
+    "base task/Task Test.md",
+    "some note.md",
     "LongStackTask/TaskTest.md",
     "cycle/Cycle Test.md",
     "README.md",
-    "base task/Task Test.md",
-    "base task/Task 1.md",
     "base task/Task 6.md",
     "base task/Task 5.md",
     "Docs/Stackoverflow error.md",
@@ -227,7 +228,6 @@
     "LongStackTask/LongTask6.md",
     "LongStackTask/LongTask5.md",
     "LongStackTask/LongTask4.md",
-    "LongStackTask/LongTask3.md",
     "LongStackTask",
     "DataviewJS/task_tree_builder.js",
     "DataviewJS/task_tools.js",

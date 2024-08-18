@@ -3,7 +3,7 @@ tags:
   - story
 ---
 - [ ] Task 1 do 1 #test 
-- [ ] Task 1 do 2 [[Task 3]] и [[Task 4]]
+- [ ] Task 1 do 2 [[Task 3]] и [[Task 4]] [[some note]]
 	- Task 1 do 2 note 1 [[Task32]]
 		- [ ] Task 1 do 2 note 1 do 1 [[Task 6]]
 			- Task 1 do 2 note 1 do 1 note 1

@@ -5,6 +5,9 @@ function filterTask(task, context) {
 	return (!task.completed || context.show_completed)
 }
 
+function filterOutlink(outlinkPage, context) {
+	return outlinkPage != undefined && outlinkPage.file.tasks.where(t => filterTask(t, context)).length > 0
+}
 function processOutlink(outlinkPage, level, stack, context) {
 	// process outlink, convert it into task
 	const is_cycled = stack.includes(outlinkPage.file.path)
@@ -30,7 +33,7 @@ function processElement(task, level, stack, context) {
 	if (task.outlinks && task.outlinks.length > 0) {
 		for (let outlinkPage of task.outlinks
 			.map(o => context.dv.page(o.path))
-			.filter(l => l)) {
+			.filter(l => filterOutlink(l, context) )) {
 			let outlink_task = processOutlink(outlinkPage, level + 1, stack, context)
 			ret_task.children.push(outlink_task)
 		}
