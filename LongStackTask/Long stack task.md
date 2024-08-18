@@ -1,0 +1,21 @@
+---
+tags:
+  - StoryLongChain
+---
+- [ ] LTask 1
+	- [ ] Ltask 2
+		- [ ] Ltask 3
+			- [ ] Ltask 4
+				- [ ] Ltask 5
+					- [ ] Ltask 6
+						- [ ] Ltask 7
+							- [ ] Ltask 8
+								- [ ] Ltask 9
+									- [ ] Ltask 10
+										- [ ] Ltask 11
+											- [ ] Ltask 12
+												- [ ] Ltask 13
+													- [ ] Ltask 14
+														- [ ] Ltask 15
+															- [ ] Ltask 16
+																- [ ] Ltask 17

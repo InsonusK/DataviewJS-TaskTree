@@ -1,0 +1,2 @@
+- [ ] Task 4 do 1 [[Task 1]]
+	- [ ] Task 4 do 1.2

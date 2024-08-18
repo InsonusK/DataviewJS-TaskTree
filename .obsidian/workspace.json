@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "740674016e4e30f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeaacaf1d3f8ebd8",
+        "type": "tabs",
+        "dimension": 47.773766546329725,
+        "children": [
+          {
+            "id": "7c598985eab3da01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base task/Task 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fb2c661142193df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base task/Task Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83ff155feb0b7fbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base task/Task Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6864d15eee041f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LongStackTask/TaskTest.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "39a885e53fc8724c",
+        "type": "tabs",
+        "dimension": 52.226233453670275,
+        "children": [
+          {
+            "id": "23014b21d844bb65",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "54b26a2f2f96dc27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cycle/Cycle Test.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5eddc92396c9a048",
+    "type": "split",
+    "children": [
+      {
+        "id": "08482a6553e696f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45ef9b7ef07320db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9f998c3cbbd8d94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8819ef5ed3cd3ee4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5
+  },
+  "right": {
+    "id": "ce852b9f0a05b16b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff45cd462483d73a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44d52c42ead0e6a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "base task/Task Test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31915c78a9577c30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "base task/Task Test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f54d21846698a8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "722615dcf18a399d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "base task/Task Test.md"
+              }
+            }
+          },
+          {
+            "id": "ea711853c4deaa8a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "c7f42b721c45b430",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "base task/Task Test.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 412.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4fb2c661142193df",
+  "lastOpenFiles": [
+    "base task/Task 5.md",
+    "base task/Task Test.md",
+    "base task/Task 3.md",
+    "cycle/Cycle Test.md",
+    "cycle/CycleTask2.md",
+    "base task/Task 1.md",
+    "LongStackTask/TaskTest.md",
+    "LongStackTask/Long stack task.md",
+    "LongStackTask/LongTask1.md",
+    "cycle/CycleTask3.md",
+    "cycle/CycleTask1.md",
+    "cycle/CycleTask4.md",
+    "cycle/CycleTask2_2.md",
+    "base task/Task 4.md",
+    "base task/Task 2.md",
+    "base task/Task 6.md",
+    "LongStackTask/LongTask2.md",
+    "LongStackTask/LongTask10.md",
+    "LongStackTask/LongTask9.md",
+    "LongStackTask/LongTask8.md",
+    "LongStackTask/LongTask6.md",
+    "LongStackTask/LongTask5.md",
+    "LongStackTask/LongTask4.md",
+    "LongStackTask/LongTask3.md",
+    "LongStackTask",
+    "DataviewJS/task_tree_builder.js",
+    "DataviewJS/task_tools.js",
+    "helpers/task",
+    "helpers/Untitled.md",
+    "DataviewJS",
+    "base task",
+    "cycle"
+  ]
+}
