@@ -43,3 +43,7 @@ let pages = dv.pages("#story").filter(page => page.file.tasks.some(task => !task
 //dv.el("p",pages.file.tasks.values[1].children[0])
 ```
 
+```dataviewjs
+let pages = dv.pages("#story").filter(page => page.file.tasks.some(task => !task.completed));
+dv.taskList(pages.file.lists);
+```

@@ -6,7 +6,7 @@
       {
         "id": "eeaacaf1d3f8ebd8",
         "type": "tabs",
-        "dimension": 47.773766546329725,
+        "dimension": 34.65703971119134,
         "children": [
           {
             "id": "7c598985eab3da01",
@@ -62,7 +62,7 @@
       {
         "id": "39a885e53fc8724c",
         "type": "tabs",
-        "dimension": 52.226233453670275,
+        "dimension": 65.34296028880867,
         "children": [
           {
             "id": "23014b21d844bb65",
@@ -79,13 +79,25 @@
               "type": "markdown",
               "state": {
                 "file": "cycle/Cycle Test.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d936f51382f3c6e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "base task/Task Test.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,19 +247,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fb2c661142193df",
+  "active": "d936f51382f3c6e7",
   "lastOpenFiles": [
     "base task/Task 5.md",
     "base task/Task Test.md",
-    "base task/Task 3.md",
-    "cycle/Cycle Test.md",
-    "cycle/CycleTask2.md",
     "base task/Task 1.md",
+    "cycle/Cycle Test.md",
+    "README.md",
+    "Docs/Stackoverflow error.md",
+    "cycle/CycleTask1.md",
+    "cycle/CycleTask3.md",
+    "Docs",
+    "DataviewJS/list_tools.js",
+    "base task/Task 3.md",
+    "cycle/CycleTask2.md",
     "LongStackTask/TaskTest.md",
     "LongStackTask/Long stack task.md",
     "LongStackTask/LongTask1.md",
-    "cycle/CycleTask3.md",
-    "cycle/CycleTask1.md",
     "cycle/CycleTask4.md",
     "cycle/CycleTask2_2.md",
     "base task/Task 4.md",
@@ -265,7 +281,6 @@
     "DataviewJS/task_tree_builder.js",
     "DataviewJS/task_tools.js",
     "helpers/task",
-    "helpers/Untitled.md",
     "DataviewJS",
     "base task",
     "cycle"
