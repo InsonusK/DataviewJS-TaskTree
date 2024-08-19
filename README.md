@@ -1,5 +1,8 @@
 JS script for Obsidian [Dataview JS](https://blacksmithgu.github.io/obsidian-dataview/api/intro/)
 
+# Example of result tree
+[Example](https://github.com/InsonusK/DataviewJS-TaskTree/blob/master/base%20task/Task%20Test.md#expected-result)
+
 # How to use
 1. copy DataviewJS into your vault
 2. copy .obsidian/snippets/check-box.css enable snippets in settings->apperance->snippets
