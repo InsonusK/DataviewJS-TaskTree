@@ -1,4 +1,4 @@
-# Ожидаемый результат
+# Expected result
 - [ ] Task 1 do 1
 - [ ] Task 1 do 2 [[Task 3]] и [[Task 4]]
 	- Task 1 do 2 note 1 [[Task 5]]
@@ -25,7 +25,7 @@
 			- [ ] Task 4 do 1.2
 			- [~] [[Task 1]]
 
-# Итоговый вариант
+# Code result
 ```dataviewjs
 var task_tree_builder = require(app.vault.adapter.basePath + "/DataviewJS/task_tree_builder.js");
 
@@ -38,7 +38,7 @@ dv.taskList(task_list);
 ```
 
 
-# Заметки
+# Notes
 ```dataviewjs
 let pages = dv.pages("#story").filter(page => page.file.tasks.some(task => !task.completed));
 //console.log("Task test note")
