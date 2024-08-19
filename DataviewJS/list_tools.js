@@ -1,12 +1,16 @@
 function cloneElement(element) {
     let status_of_element = element.task ? element.status : "-"
+    let text = element.text
+    if (element.symbol && element.symbol !== "-") {
+        text = `**${element.symbol}**${text}`;
+    }
 	return {
 	    //annotated: task.annotated,
 	    //section: task.section
 	    header: element.header,
 	    symbol: element.symbol,
 	    tags: element.tags,
-        text: element.text,       
+        text: text,       
         status: status_of_element,   	// Element status, filling [ ] for task element
         task: true,       	// Flag that list element is task
         real: false,           		// Flag that element is fake, but it doesn't effect to anything
